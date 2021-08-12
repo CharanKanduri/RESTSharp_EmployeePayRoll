@@ -4,7 +4,7 @@ namespace RESTSharp_AddressBookSystem
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to REST Sharp Program");
         }
